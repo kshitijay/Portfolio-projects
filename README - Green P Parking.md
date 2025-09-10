@@ -1,4 +1,4 @@
-Green P Parking Overview
+Toronto Neighborhood Parking Study
 
 This project analyzes parking availability and infractions across Toronto neighbourhoods using data from the Urban HEART@Toronto initiative (based on WHO’s Urban Health Equity Assessment and Response Tool).
 The goal was to uncover trends in parking violations, identify high-risk areas, and explore the relationship between parking spaces and infractions to inform city planning and neighbourhood equity (NEI) assessments.
